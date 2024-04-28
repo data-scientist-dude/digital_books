@@ -1,8 +1,8 @@
 ---
-title: "book_one"
+title: "Data Science Books"
 ---
 
-Just you, Dear Reader, know that this is an awesome Quarto website.
+Data Science is an amazing subject, and here are many books about it.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
