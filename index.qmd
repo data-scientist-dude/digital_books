@@ -2,7 +2,7 @@
 title: "Data Science Books"
 ---
 
-Data Science is an amazing subject, and here are many books about it.
+Health science is an amazing subject, and here are many projects about it.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
