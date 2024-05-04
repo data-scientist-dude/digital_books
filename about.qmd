@@ -4,7 +4,7 @@ title: "About"
 
 Hello, I am JT and I am a operations research/systems analyst that works for the [United States Cyber Command](https://www.cybercom.mil/). My team conducts software assessments for operational efficiency and effectiveness.
 
-I also provide digital products and services. I consult to MICA as a capstone advisor to graduate students.
+I also provide digital products and services. I consult to [MICA](https://www.mica.edu/) as a capstone advisor to graduate students.
 
 ```{r}
 1 + 1
